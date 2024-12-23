@@ -43,8 +43,7 @@ This module is compatible with **iOS 16+** and **Swift 5.7+**.
 
 1. Open your project in **Xcode**.
 2. Go to **File > Add Packages...**.
-3. Enter the repository URL:  
-   `https://github.com/netcanis/feat_fcm.git`
+3. Enter the repository URL:  https://github.com/netcanis/feat_fcm.git
 4. Select the desired version and integrate the package into your project.
 
 ---
